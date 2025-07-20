@@ -11,5 +11,4 @@ This dashboard analyzes employee attrition across departments, job roles, educat
 ## Tools Used:
 - Power BI, Power Query, DAX
 
-## Screenshots:
-![Dashboard](dashboard_screenshot.png)
+##Demo-https://drive.google.com/drive/folders/16o2b1bwWDX2waBqMXoq5fDiNHCSgTfMq?usp=drive_link
